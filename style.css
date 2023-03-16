@@ -68,6 +68,12 @@ ul li a:hover {
     min-height: 90vh;
     display: flex;
 }
+
+#portfolio {
+  background: #000000;
+
+}
+
 #contact {
     padding-bottom: 4rem;
 }
